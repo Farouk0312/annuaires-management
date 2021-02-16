@@ -2,8 +2,8 @@
 
 $this->config['db'] = array(
 	'driver'   => 'mysql',
-	'host'     => 'localhost',
-	'username' => 'root',
-	'password' => '',
-	'name'     => 'annuaire-management'
+	'host'     => 'https://medialibsos-002.medialibs.com/mysql/',
+	'username' => 'testmas189265com',
+	'password' => 'rGWJwauZ',
+	'name'     => 'dbtestmaerys189265com'
 );
