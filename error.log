@@ -3,3 +3,4 @@
 [2021-02-15 13:07:31] [ERROR] [::1] SQLSTATE[HY000] [1049] Unknown database 'annuaire-management'
 [2021-02-15 13:07:35] [ERROR] [::1] SQLSTATE[HY000] [1049] Unknown database 'annuaire-management'
 [2021-02-16 14:08:54] [ERROR] [::1] SQLSTATE[HY000] [1045] Access denied for user 'testmas189265com'@'localhost' (using password: YES)
+[2021-02-16 14:18:39] [ERROR] [::1] SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Hôte inconnu. 
